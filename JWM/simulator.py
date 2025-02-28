@@ -111,7 +111,7 @@ class JordanSimulator(Simulator):
 
         self.set_timesteps(timesteps)
 
-        print "Simulation length: %s timesteps" % (len(timesteps))
+        print ("Simulation length: %s timesteps" % (len(timesteps)))
 
     def set_network(self, network_inputs, human_module_inputs):
         """Set network on simulator object.
