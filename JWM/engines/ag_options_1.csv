@@ -1,0 +1,6 @@
+job_nr	endogenous	tanker_growth	irrig_supply_reductions
+1	no	4%	yes
+2	no	8%	yes
+3	no	12%	yes
+4	no	4%	no
+5	yes	8%	no

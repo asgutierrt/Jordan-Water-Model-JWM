@@ -1,0 +1,9 @@
+numpy
+pynsim
+pandas
+pyomo
+pyshp
+xlrd
+xlsxwriter
+pyutilib
+scipy
