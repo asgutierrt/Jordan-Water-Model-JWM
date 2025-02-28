@@ -7,5 +7,8 @@ Jordan Water Model (JWM), incl. the extension for Tanker Water Market Analyses (
 If succesfully activated, you should see ```(.venv) C:\...``` on the cmd
 5. Update pip with ```pip install --upgrade pip``` and Install requirements with ```pip install -r requirements.txt```
 
+# connect optimization software
+https://www.youtube.com/watch?v=I3tIPQn6z5U
+
 # source
 Yoon, J., Klassert, C., Selby, P., Lachaut, T., Knox, S., Avisse, N., Harou, J., Tilmant, A., and Gorelick, S. (2023). Jordan Water Model (JWM). Stanford Digital Repository. Available at https://purl.stanford.edu/zw908ds8394.
